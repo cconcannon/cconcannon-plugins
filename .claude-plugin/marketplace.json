@@ -1,0 +1,13 @@
+{
+  "name": "cconcannon-plugins",
+  "owner": {
+    "name": "cconcannon"
+  },
+  "plugins": [
+    {
+      "name": "doctor",
+      "source": "./doctor",
+      "description": "Documentation operations"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "doctor",
+  "description": "A plugin that assists with documentation-related tasks",
+  "version": "0.1.0",
+  "author": {
+    "name": "cconcannon"
+  }
+}
