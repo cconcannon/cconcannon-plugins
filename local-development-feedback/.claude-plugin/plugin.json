@@ -1,0 +1,8 @@
+{
+  "name": "local-development-feedback",
+  "description": "A plugin that provides tools for testing and verifying local development work",
+  "version": "0.1.0",
+  "author": {
+    "name": "cconcannon"
+  }
+}

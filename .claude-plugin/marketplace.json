@@ -8,6 +8,11 @@
       "name": "doctor",
       "source": "./doctor",
       "description": "Documentation operations"
+    },
+    {
+      "name": "local-development-feedback",
+      "source": "./local-development-feedback",
+      "description": "Local development testing and verification"
     }
   ]
 }
